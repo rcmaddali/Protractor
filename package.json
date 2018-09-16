@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "First test in Protractor",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.1",
+    "jasmine": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcmaddali/Protractor.git"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcmaddali/Protractor/issues"
+  },
+  "homepage": "https://github.com/rcmaddali/Protractor#readme"
+}
